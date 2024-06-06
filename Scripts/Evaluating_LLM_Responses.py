@@ -45,7 +45,7 @@ world_background_file = "World_Details\world_backgrounds.txt"
 world_background_prompts_file = "World_Details\world_background_prompts.txt"
 character_details_file = "World_Details\character_details.txt"
 world_background_prompts = create_world_background_prompts_dict(world_background_prompts_file)
-API_TOKEN = "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"
+API_TOKEN = "" # Add API Token Here
 API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
 
 # Load Cached Reference Embeddings
